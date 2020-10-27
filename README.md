@@ -24,4 +24,4 @@ The multiple line plots below shows the total weekly of the fares for each type 
 ![alt text](analysis/PyBer_fare_summary.png)
   
 ## Summary
-It is difficult to calculate the true cost comparison, considering there is no data showing travel time and distance traveled. There is no rate difference for peak hours that may provide optimum travel times for employees. It may be beneficial to calculate the differences in costs based on distance and peak versus off peak travel times.
+It is hard to compute the genuine cost examination, considering there is no information demonstrating travel time and separation voyaged. There is no rate distinction for top hours that may give ideal travel times to representatives. It might be useful to ascertain the distinctions in costs dependent on separation and pinnacle versus off pinnacle travel times.
